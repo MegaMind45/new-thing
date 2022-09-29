@@ -113,3 +113,12 @@ form input:focus {
   animation-iteration-count: 1;
   animation-fill-mode: forwards;
 }
+#btntext {
+  position:absolute;
+  top: 0px;
+}
+
+button {
+  height:25px;
+  width:120px;
+}
